@@ -33,6 +33,7 @@ Viaja a través de nuestra música, descubre nuevas culturas y sonidos y, sobre 
 
 **Licencia**
 
+![4](https://user-images.githubusercontent.com/104380090/165135836-a29b6801-a0a0-4d1b-91ba-c255546e276a.jpeg)
 
 Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada. 
 
@@ -85,10 +86,18 @@ Social Media Plan
 
 Diseñar imágenes de cabecera y proyecto de crowdfunding
 
-![cabecera](https://user-images.githubusercontent.com/103737993/164498408-5da7cbc4-aebe-4870-b03e-c062269c1e43.png)
+![2](https://user-images.githubusercontent.com/104380090/165135843-e906be27-2564-4ee5-8a91-28223e39340e.jpeg)
 
-Diseñar y finalizar GitHub
 
-Finalizar Trello
 
-Crear una presentación de nuestro proyecto en formato vídeo
+
+
+
+
+
+
+
+
+### CONCLUSIONES
+
+![3](https://user-images.githubusercontent.com/104380090/165135842-c95ffd5a-697b-43a0-bf3b-b9a21b798340.jpeg)
