@@ -1,4 +1,4 @@
-
+## Airplane & Earphones
 
 Comunidad Social de Música Electrónica Interactiva.
 
@@ -33,7 +33,6 @@ Viaja a través de nuestra música, descubre nuevas culturas y sonidos y, sobre 
 
 **Licencia**
 
-https://user-images.githubusercontent.com/104380090/165135836-a29b6801-a0a0-4d1b-91ba-c255546e276a.jpeg
 
 Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada. 
 
