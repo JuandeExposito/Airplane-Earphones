@@ -25,7 +25,7 @@ Viaja a través de nuestra música, descubre nuevas culturas y sonidos y, sobre 
 
 **Logotipo** :
 
-https://user-images.githubusercontent.com/104380090/165135834-96ec49dd-c24a-4220-86b1-f1e7cfbe2871.jpeg
+![1](https://user-images.githubusercontent.com/104380090/165135834-96ec49dd-c24a-4220-86b1-f1e7cfbe2871.jpeg)
 
 **Slogan** : Viaja alrededor de la música
 
