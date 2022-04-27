@@ -49,10 +49,9 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 **Redes Sociales** 
 
-* [TikTok](https://www.tiktok.com/es/)
-* [Instagram](https://www.instagram.com/) 
-* [Twitter](https://twitter.com/home?lang=es)
-* [Youtube](https://www.youtube.com/) 
+* [Instagram](https://www.instagram.com/) ![8](https://user-images.githubusercontent.com/104380090/165587142-af856c6c-e08c-4f38-ac8b-b8a372ffc4c9.jpeg)
+* [Facebook](https://www.facebook.com/) ![7](https://user-images.githubusercontent.com/104380090/165587110-d2b377fc-083c-40f2-9f29-de73608d6c6b.jpeg)
+* [Youtube](https://www.youtube.com/) ![6](https://user-images.githubusercontent.com/104380090/165587059-12312c48-f9a6-4a3f-bd9f-4d63f7578ad1.jpeg)
  
 
 --- 
@@ -88,24 +87,55 @@ Presentación de nuestro proyecto en vídeo.
 
 ### Etapa 1: Braistorming para conseguir ideas sobre cómo llevar a cabo esta comunidad 
 
-Puesta en común en la plataforma colaborativa [Trello](https://trello.com/b/IHGkNw3p/lusers)
+Puesta en común en la plataforma colaborativa [Trello](https://trello.com/b/IptZV4Mf/72h-project)
 
-Búsqueda de un logotipo para nuestra comunidad
+### Etapa 2: Social Media Plan
 
-Definir los objetivos más importantes a conseguir
+Misión: Crear una comunidad que pueda disfrutar de la música de diferentes partes del mundo y se vuelva consciente de la cultura y belleza de otros lugares y su música.
 
-Social Media Plan
+Objetivos:
+-	Generar un publico constante y creciente en Youtube
+-	Generar una comunidad que este conectada y creciendo a través de Facebook e Instagram
+-	Crear engagement de tal forma que el publico meta comente comparta y haga clic a nuestra pagina para eventualmente participar en nuestros eventos y volverse fan.
+-	Crear una plataforma de experiencias funcionando viajes y eventos alrededor del mundo.
+-	Crear un festival que los puntos anteriores en un evento masivo.
 
-Diseñar diseño de icono
+Target Group: El público meta con el cual queremos conectar, son personas principalmente jóvenes, que disfrutan de escuchar música electrónica principalmente.
 
-![1](https://user-images.githubusercontent.com/104380090/165584243-514de346-ddf6-4b92-b32b-3d7a09a18ccd.jpeg)
+KPIs: 1. Awareness Phase: Impresiones, Reach, Views, Diferencia Fans y Followers.  2. Engagement Phase: Shares per-post, Cantidad de comentarios. Conversion Phase: Conversion rate, Numero de Leads. Retention Phase: Testimonios, Traffic.
 
-Diseñar imágenes de cabecera y proyecto de crowdfunding
+### Etapa 3: Creación de Icono
+
+![5](https://user-images.githubusercontent.com/104380090/165584245-ed0ff32b-b9e6-463d-8bc8-881d259a8b3f.jpeg)
+
+### Etapa 4: Diseñar imágenes de cabecera
 
 ![2](https://user-images.githubusercontent.com/104380090/165135843-e906be27-2564-4ee5-8a91-28223e39340e.jpeg)
 
-Diseñar y finalizar GitHub
+### Etapa 5: Proyecto Crowdfunding
 
-Finalizar Trello
+<p align = "justify">Ver el mundo a través de la música es algo que no tiene que limitarse a solo fiestas en la discotecas y eventos masivos.  
+Airplanes & Earphones juntara a DJs del mundo con lugares históricos para conectarte con la música como nunca la habías vivido. Prepárate, porque nuestro próximo evento podría estar más cerca de lo que crees. ¿Viajaras con nosotros?”</p>
 
-Crear una presentación de nuestro proyecto en formato vídeo
+
+### Etapa 6: Crear una presentación de nuestro proyecto en formato vídeo
+
+
+
+### SOBRE NOSOTROS
+
+Q: ¿Por qué Airplanes and Earphones y no otra empresa?
+A: Creemos en lo autentico y lo que proviene de una región, una de nuestras principales motivaciones en este proyecto es mostrar sonidos que provienen de la región y brindar un espacio para que se conozca más sobre los orígenes de una cultura, lo que planeamos fomentar en nuestra comunidad.
+
+
+
+### Bienvenido a este viaje por el mundo con Airplanes and Earphones! :)
+
+
+
+
+
+
+
+
+
