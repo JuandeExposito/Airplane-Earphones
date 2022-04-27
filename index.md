@@ -1,6 +1,6 @@
 ## Airplane & Earphones
 
-Comunidad Social de Música Electrónica Interactiva.
+Comunidad Social de Música Electrónica Interactiva
 
 Máster en Gestión y Tecnologías de Procesos de Negocios
 
