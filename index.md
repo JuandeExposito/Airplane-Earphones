@@ -1,8 +1,8 @@
 ## Airplane & Earphones
 
-##Comunidad Social de Música Electrónica Interactiva.
+Comunidad Social de Música Electrónica Interactiva.
 
-##Máster en Gestión y Tecnologías de Procesos de Negocios
+Máster en Gestión y Tecnologías de Procesos de Negocios
 
 ----
 
@@ -67,11 +67,11 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 ### ¿Con qué propósito se crea la comunidad?
 
-La comunidad se creó con el propósito de asegurar que la música electrónica llega a oídos de todo el mundo, sea cual sea su país y procedencia, es decir, que nuestro proyecto esté formado por diferentes culturas.
+<p align = "justify">La comunidad se creó con el propósito de asegurar que la música electrónica llega a oídos de todo el mundo, sea cual sea su país y procedencia, es decir, que nuestro proyecto esté formado por diferentes culturas.</p>
 
 ### Objetivos de la comunidad
 
-Nuestro principal objetivo es poder acercarnos a todo tipo de público, es decir, que cualquier persona tenga el derecho a participar en nuestra música.
+<p align = "justify">Nuestro principal objetivo es poder acercarnos a todo tipo de público, es decir, que cualquier persona tenga el derecho a participar en nuestra música.</p>
 
 --- 
 
