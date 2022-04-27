@@ -59,9 +59,9 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 **Redes Sociales** 
 
-* [Instagram](https://www.instagram.com/) ![8](https://user-images.githubusercontent.com/104380090/165587142-af856c6c-e08c-4f38-ac8b-b8a372ffc4c9.jpeg)
-* [Facebook](https://www.facebook.com/) ![7](https://user-images.githubusercontent.com/104380090/165587110-d2b377fc-083c-40f2-9f29-de73608d6c6b.jpeg)
-* [Youtube](https://www.youtube.com/) ![6](https://user-images.githubusercontent.com/104380090/165587059-12312c48-f9a6-4a3f-bd9f-4d63f7578ad1.jpeg)
+* [Instagram](https://www.instagram.com/)
+* [Facebook](https://www.facebook.com/) 
+* [Youtube](https://www.youtube.com/) 
  
 
 --- 
