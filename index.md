@@ -1,35 +1,41 @@
 ## Airplane & Earphones
 
-Comunidad Social de Música Electrónica Interactiva.
+##Comunidad Social de Música Electrónica Interactiva.
 
-Máster en Gestión y Tecnologías de Procesos de Negocios
+##Máster en Gestión y Tecnologías de Procesos de Negocios
 
 ----
 
-**Titulo** : Airplane & Earphones
+**Titulo** 
 
-**Autores** :
+Airplane & Earphones
+
+**Autores**
+
+* Shab E Noor 
+
+* Mauricio Lingue
+
+* Karen Lissete
 
 * Juan de Dios Expósito Guerrero
 
-* Shab e Noor 
 
-* Mauricio
-
-* Karen
-
-
-**Resumen** :
+**Resumen** 
 
 Viaja a través de nuestra música, descubre nuevas culturas y sonidos y, sobre todo, participa y disfruta con nosotros. Sé uno más de nuestro equipo.
 
-**Logotipo** :
+**Logotipo** 
 
 ![1](https://user-images.githubusercontent.com/104380090/165564850-a098db25-1246-4154-a6f5-30231c5d2b43.jpeg)
 
-**Slogan** : Viaja alrededor de la música
+**Slogan**
 
-**Hashtag** #música #electrónica #airplane #earphones #comunity
+"Viaja alrededor de la música"
+
+**Hashtags** 
+
+#música #electrónica #airplane #earphones #comunity
 
 **Licencia**
 
@@ -37,9 +43,11 @@ Viaja a través de nuestra música, descubre nuevas culturas y sonidos y, sobre 
 
 Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada. 
 
-**Fecha** : 29 de abril de 2022
+**Fecha**
 
-**Redes Sociales** : 
+29 de abril de 2022
+
+**Redes Sociales** 
 
 * [TikTok](https://www.tiktok.com/es/)
 * [Instagram](https://www.instagram.com/) 
