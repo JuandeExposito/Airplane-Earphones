@@ -33,7 +33,7 @@ Viaja a través de nuestra música, descubre nuevas culturas y sonidos y, sobre 
 
 **Licencia**
 
-https://user-images.githubusercontent.com/104380090/165135836-a29b6801-a0a0-4d1b-91ba-c255546e276a.jpeg
+![4](https://user-images.githubusercontent.com/104380090/165135836-a29b6801-a0a0-4d1b-91ba-c255546e276a.jpeg)
 
 Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada. 
 
@@ -52,6 +52,10 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 ### ¿Quién forma la comunidad?
 
 La comunidad se compone de un grupo de 4 estudiantes del Máster de Gestión y Tecnologías de Procesos de Negocio, impartido por la UGR. Este proyecto nace de un brainstorming, del cuál salió la idea y puesta en común de centrarnos en la música electrónica. Además, nuestro compañero Mauricio se dedica, en la vida real, ha crear música de este tipo con sus propias herramientas. Por último, defender que la música debería ser universal y todo el mundo debería tener el derecho de acceder a ella.
+
+
+![3](https://user-images.githubusercontent.com/104380090/165135842-c95ffd5a-697b-43a0-bf3b-b9a21b798340.jpeg)
+
 
 ### ¿Con qué propósito se crea la comunidad?
 
@@ -86,7 +90,7 @@ Social Media Plan
 
 Diseñar imágenes de cabecera y proyecto de crowdfunding
 
-![cabecera](https://user-images.githubusercontent.com/103737993/164498408-5da7cbc4-aebe-4870-b03e-c062269c1e43.png)
+![2](https://user-images.githubusercontent.com/104380090/165135843-e906be27-2564-4ee5-8a91-28223e39340e.jpeg)
 
 Diseñar y finalizar GitHub
 
