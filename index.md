@@ -8,9 +8,11 @@ Máster en Gestión y Tecnologías de Procesos de Negocios
 
 ### Bienvenido a este viaje por el mundo con Airplanes and Earphones! :)
 
+
 **Titulo** 
 
 Airplane & Earphones
+
 
 **Autores**
 
@@ -27,17 +29,21 @@ Airplane & Earphones
 
 Viaja a través de nuestra música, descubre nuevas culturas y sonidos y, sobre todo, participa y disfruta con nosotros. Sé uno más de nuestro equipo.
 
+
 **Logotipo** 
 
 ![1](https://user-images.githubusercontent.com/104380090/165584243-514de346-ddf6-4b92-b32b-3d7a09a18ccd.jpeg)
+
 
 **Slogan**
 
 "Viaja alrededor de la música"
 
+
 **Hashtags** 
 
 #música #electrónica #airplane #earphones #comunity
+
 
 **Licencia**
 
@@ -45,9 +51,11 @@ Viaja a través de nuestra música, descubre nuevas culturas y sonidos y, sobre 
 
 Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada. 
 
+
 **Fecha**
 
 29 de abril de 2022
+
 
 **Redes Sociales** 
 
@@ -70,6 +78,7 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 <p align = "justify">La comunidad se creó con el propósito de asegurar que la música electrónica llega a oídos de todo el mundo, sea cual sea su país y procedencia, es decir, que nuestro proyecto esté formado por diferentes culturas.</p>
 
+
 ### Objetivos de la comunidad
 
 <p align = "justify">Nuestro principal objetivo es poder acercarnos a todo tipo de público, es decir, que cualquier persona tenga el derecho a participar en nuestra música.</p>
@@ -91,6 +100,7 @@ Presentación de nuestro proyecto en vídeo.
 
 Puesta en común en la plataforma colaborativa [Trello](https://trello.com/b/IptZV4Mf/72h-project)
 
+
 ### Etapa 2: Social Media Plan
 
 Misión: Crear una comunidad que pueda disfrutar de la música de diferentes partes del mundo y se vuelva consciente de la cultura y belleza de otros lugares y su música.
@@ -106,13 +116,16 @@ Target Group: El público meta con el cual queremos conectar, son personas princ
 
 KPIs: 1. Awareness Phase: Impresiones, Reach, Views, Diferencia Fans y Followers.  2. Engagement Phase: Shares per-post, Cantidad de comentarios. Conversion Phase: Conversion rate, Numero de Leads. Retention Phase: Testimonios, Traffic.
 
+
 ### Etapa 3: Creación de Icono
 
 ![5](https://user-images.githubusercontent.com/104380090/165584245-ed0ff32b-b9e6-463d-8bc8-881d259a8b3f.jpeg)
 
+
 ### Etapa 4: Diseñar imágenes de cabecera
 
 ![2](https://user-images.githubusercontent.com/104380090/165135843-e906be27-2564-4ee5-8a91-28223e39340e.jpeg)
+
 
 ### Etapa 5: Proyecto Crowdfunding
 
@@ -128,16 +141,5 @@ Airplanes & Earphones juntara a DJs del mundo con lugares históricos para conec
 
 Q: ¿Por qué Airplanes and Earphones y no otra empresa?
 A: Creemos en lo autentico y lo que proviene de una región, una de nuestras principales motivaciones en este proyecto es mostrar sonidos que provienen de la región y brindar un espacio para que se conozca más sobre los orígenes de una cultura, lo que planeamos fomentar en nuestra comunidad.
-
-
-
-### Bienvenido a este viaje por el mundo con Airplanes and Earphones! :)
-
-
-
-
-
-
-
 
 
