@@ -27,7 +27,7 @@ Viaja a través de nuestra música, descubre nuevas culturas y sonidos y, sobre 
 
 **Logotipo** 
 
-![1](https://user-images.githubusercontent.com/104380090/165564850-a098db25-1246-4154-a6f5-30231c5d2b43.jpeg)
+![1](https://user-images.githubusercontent.com/104380090/165584243-514de346-ddf6-4b92-b32b-3d7a09a18ccd.jpeg)
 
 **Slogan**
 
@@ -95,6 +95,10 @@ Búsqueda de un logotipo para nuestra comunidad
 Definir los objetivos más importantes a conseguir
 
 Social Media Plan
+
+Diseñar diseño de icono
+
+![1](https://user-images.githubusercontent.com/104380090/165584243-514de346-ddf6-4b92-b32b-3d7a09a18ccd.jpeg)
 
 Diseñar imágenes de cabecera y proyecto de crowdfunding
 
