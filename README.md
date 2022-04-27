@@ -55,7 +55,7 @@ La comunidad se compone de un grupo de 4 estudiantes del Máster de Gestión y T
 
 ### ¿Con qué propósito se crea la comunidad?
 
-La comunidad se creó con el propósito de asegurar que la música electrónica llega a oídos de todo el mundo, sea cual sea su país y procedencia, es decir, que nuestro proyecto esté formado por diferentes culturas.
+La comunidad se creó con el propósito de asegurar que la música electrónica llega a oídos de todo el mundo, sea cual sea su país y procedencia, es decir, que nuestro proyecto esté formado por diferentes culturas
 
 ### Objetivos de la comunidad
 
