@@ -62,8 +62,6 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 **Redes Sociales** 
 
-![RRSS](https://user-images.githubusercontent.com/104380090/165781895-84eb090e-9ee9-4b0c-ae5f-9b50f05713d6.png)
-
 * [Instagram](https://www.instagram.com/)
 * [Facebook](https://www.facebook.com/) 
 * [Youtube](https://www.youtube.com/) 
@@ -150,6 +148,8 @@ Airplanes & Earphones juntara a DJs del mundo con lugares históricos para conec
 
 
 ### Etapa 6: Crear una presentación de nuestro proyecto en formato vídeo
+
+
 
 
 
