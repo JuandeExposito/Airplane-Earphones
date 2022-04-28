@@ -124,10 +124,19 @@ KPIs: 1. Awareness Phase: Impresiones, Reach, Views, Diferencia Fans y Followers
 
 ### Etapa 3: Creación de Icono
 
+El logotipo ha sido creado en PAINT 3D. Realmente, es prácticamente igual que nuestro logotipo de marca, pero más sencillo, es por eso que carece de palabras.
+
+El planeta y los auriculares representan el objetivo de nuestro proyecto, abrir la música electrónica ante todo el planeta.
+
 ![5](https://user-images.githubusercontent.com/104380090/165584245-ed0ff32b-b9e6-463d-8bc8-881d259a8b3f.jpeg)
 
 
 ### Etapa 4: Diseñar imágenes de cabecera
+
+Nuestra imagen de cabecera se utilizará en nuestros perfiles sociales, como Facebook, o como imagen principal de la landing page.
+Header Image muestra una variedad de cultura y trasciende fronteras, por eso hay fotografías icónicas de diferentes partes del mundo acompañadas de pequeñas vibraciones musicales.
+
+El fondo se acompaña de instrumentos para evocar el concepto musical de forma sutil pero clara. De esta forma, quien lo observa, inconscientemente vincula los conceptos. Además, Fondo azul/azul claro para transmitir frescura y libertad; aspectos fuertemente ligados a nuestra comunidad de creadores.
 
 ![2](https://user-images.githubusercontent.com/104380090/165135843-e906be27-2564-4ee5-8a91-28223e39340e.jpeg)
 
