@@ -4,9 +4,12 @@ Comunidad Social de Música Electrónica Interactiva
 
 Máster en Gestión y Tecnologías de Procesos de Negocios
 
+https://github.githubassets.com/images/icons/emoji/octocat.png
+
 ----
 
 ### Bienvenido a este viaje por el mundo con Airplanes and Earphones! :) :)
+
 
 
 **Titulo** 
@@ -59,7 +62,7 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 **Redes Sociales** 
 
-* [Instagram](https://www.instagram.com/)
+* [Instagram](https://www.instagram.com/) ![6](https://user-images.githubusercontent.com/104380090/165781633-c3c39676-b679-4bd3-b069-c2faa2ffe890.png)
 * [Facebook](https://www.facebook.com/) 
 * [Youtube](https://www.youtube.com/) 
  
