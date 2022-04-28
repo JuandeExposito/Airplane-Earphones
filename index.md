@@ -33,6 +33,8 @@ Viaja a través de nuestra música, descubre nuevas culturas y sonidos y, sobre 
 
 **Logotipo** 
 
+<p align = "justify">El logo creado se centra en la Música y el Mundo. Tiene el objetivo de representar la Música en todo el mundo, como lo ilustran el avión y los auriculares en el Globo terráqueo. Este logotipo se ha dibujado con herramientas profesionales como Adobe Photoshop, Illustrator e Inkscape.</p>
+
 ![1](https://user-images.githubusercontent.com/104380090/165584243-514de346-ddf6-4b92-b32b-3d7a09a18ccd.jpeg)
 
 
