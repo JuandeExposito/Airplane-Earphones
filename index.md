@@ -71,7 +71,7 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 ### ¿Quién forma la comunidad?
 
-<p align = "justify">La comunidad se compone de un grupo de 4 estudiantes del Máster de Gestión y Tecnologías de Procesos de Negocio, impartido por la UGR. Este proyecto nace de un brainstorming, del cuál salió la idea y puesta en común de centrarnos en la música electrónica. Además, nuestro compañero Mauricio se dedica, en la vida real, ha crear música de este tipo con sus propias herramientas. Por último, defender que la música debería ser universal y todo el mundo debería tener el derecho de acceder a ella.</p>
+<p align = "justify">La comunidad se compone de un grupo de 4 estudiantes del Máster de Gestión y Tecnologías de Procesos de Negocio, impartido por la UGR. Este proyecto nace de un brainstorming, del cuál salió la idea y puesta en común de centrarnos en la música electrónica. Además, nuestro compañero Mauricio se dedica, en la vida real, a crear música de este tipo con sus propias herramientas. Por último, defender que la música debería ser universal y todo el mundo debería tener el derecho de acceder a ella.</p>
 
 
 ![3](https://user-images.githubusercontent.com/104380090/165135842-c95ffd5a-697b-43a0-bf3b-b9a21b798340.jpeg)
