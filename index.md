@@ -156,6 +156,6 @@ Airplanes & Earphones juntara a DJs del mundo con lugares históricos para conec
 ### SOBRE NOSOTROS
 
 Q: ¿Por qué Airplanes and Earphones y no otra empresa?
-A: Creemos en lo autentico y lo que proviene de una región, una de nuestras principales motivaciones en este proyecto es mostrar sonidos que provienen de la región y brindar un espacio para que se conozca más sobre los orígenes de una cultura, lo que planeamos fomentar en nuestra comunidad.
+A: Creemos en lo auténtico y lo que proviene de una región, una de nuestras principales motivaciones en este proyecto es mostrar sonidos que provienen de la región y brindar un espacio para que se conozca más sobre los orígenes de una cultura, lo que planeamos fomentar en nuestra comunidad.
 
 
