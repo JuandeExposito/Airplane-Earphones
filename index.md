@@ -4,8 +4,6 @@ Comunidad Social de Música Electrónica Interactiva
 
 Máster en Gestión y Tecnologías de Procesos de Negocios
 
-https://github.githubassets.com/images/icons/emoji/octocat.png
-
 ----
 
 ### Bienvenido a este viaje por el mundo con Airplanes and Earphones! :) :)
@@ -62,7 +60,9 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 **Redes Sociales** 
 
-* [Instagram](https://www.instagram.com/) ![6](https://user-images.githubusercontent.com/104380090/165781633-c3c39676-b679-4bd3-b069-c2faa2ffe890.png)
+![RRSS](https://user-images.githubusercontent.com/104380090/165781895-84eb090e-9ee9-4b0c-ae5f-9b50f05713d6.png)
+
+* [Instagram](https://www.instagram.com/)
 * [Facebook](https://www.facebook.com/) 
 * [Youtube](https://www.youtube.com/) 
  
@@ -102,6 +102,8 @@ Presentación de nuestro proyecto en vídeo.
 ### Etapa 1: Braistorming para conseguir ideas sobre cómo llevar a cabo esta comunidad 
 
 Puesta en común en la plataforma colaborativa [Trello](https://trello.com/b/IptZV4Mf/72h-project)
+
+![TRELLO](https://user-images.githubusercontent.com/104380090/165781940-722cce6f-a81e-4ef0-a6e3-b4a7f5cb39df.png)
 
 
 ### Etapa 2: Social Media Plan
