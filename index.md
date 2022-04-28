@@ -141,15 +141,23 @@ El fondo se acompaña de instrumentos para evocar el concepto musical de forma s
 ![2](https://user-images.githubusercontent.com/104380090/165135843-e906be27-2564-4ee5-8a91-28223e39340e.jpeg)
 
 
-### Etapa 5: Proyecto Crowdfunding
+### Etapa 5: Proyecto Crowdfunding y Diseño de Marca
 
 <p align = "justify">Ver el mundo a través de la música es algo que no tiene que limitarse a solo fiestas en la discotecas y eventos masivos.  
 Airplanes & Earphones juntara a DJs del mundo con lugares históricos para conectarte con la música como nunca la habías vivido. Prepárate, porque nuestro próximo evento podría estar más cerca de lo que crees. ¿Viajaras con nosotros?”</p>
 
+<p align = "justify">En cuanto a la imagen de marca, hemos elaborado un diseño acorde con las características y objetivos de nuestro proyecto. Para ello, hemos utilizado las herramientas Adobe Illustrator and Inkscape.</p>
+
+![Brand 2](https://user-images.githubusercontent.com/104380090/165812524-6f8e32de-64e1-4f06-a459-8a3669220505.jpeg)
+
+![Brand](https://user-images.githubusercontent.com/104380090/165812535-92beed7e-0474-43e4-89cc-1015abc6cbe5.jpeg)
+
 
 ### Etapa 6: Crear una presentación de nuestro proyecto en formato vídeo
 
+En esta última etapa, hemos realizado una presentación de nuestro proyecto, mediante la conocida herramienta Power Point.
 
+![Vídeo](https://user-images.githubusercontent.com/104380090/165812538-3d706d6f-b15d-4b3c-a0a4-93ab15829546.jpeg)
 
 
 
