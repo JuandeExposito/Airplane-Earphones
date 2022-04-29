@@ -99,7 +99,7 @@ Elaborar un Social Media Plan.
 Presentación de nuestro proyecto en vídeo.
 
 
-### Etapa 1: Braistorming para conseguir ideas sobre cómo llevar a cabo esta comunidad 
+### Etapa 1: Brainstorming para conseguir ideas sobre cómo llevar a cabo esta comunidad 
 
 Puesta en común en la plataforma colaborativa [Trello](https://trello.com/b/IptZV4Mf/72h-project)
 
